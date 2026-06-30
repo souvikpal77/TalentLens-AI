@@ -1,3 +1,11 @@
+# 🤖 TalentLens AI
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+AI-Powered Resume Intelligence Platform that ranks candidates using semantic matching, career progression, skill analysis, behavioral scoring, and experience evaluation.
+
 # 🚀 TalentLens-AI
 
 > **AI-Powered Resume Intelligence Platform for Explainable Candidate Ranking**
@@ -6,8 +14,7 @@ TalentLens-AI is an AI-powered resume screening platform that helps recruiters i
 
 Instead of relying only on keyword matching, TalentLens-AI evaluates resumes using multiple intelligent modules including semantic understanding, career progression, technical skills, behavioral analysis, and professional experience to generate a transparent **100-point candidate score**.
 
----
-
+--
 # 🚀 TalentLens-AI
 
 > **AI-Powered Resume Intelligence Platform for Explainable Candidate Ranking**
