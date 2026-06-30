@@ -8,6 +8,17 @@ Instead of relying only on keyword matching, TalentLens-AI evaluates resumes usi
 
 ---
 
+# 🚀 TalentLens-AI
+
+> **AI-Powered Resume Intelligence Platform for Explainable Candidate Ranking**
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge)](https://talentlens-ai-souvik.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/souvikpal77/TalentLens-AI)
+
+TalentLens-AI is an AI-powered resume screening platform...
+
+---
+
 ## 📸 Dashboard Preview
 
 ### Dashboard
