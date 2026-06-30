@@ -8,6 +8,20 @@ Instead of relying only on keyword matching, TalentLens-AI evaluates resumes usi
 
 ---
 
+## 📸 Dashboard Preview
+
+### Dashboard
+
+![Dashboard](docs/dashboard.png)
+
+### Top Candidates
+
+![Ranking](docs/ranking.png)
+
+### Analytics
+
+![Analytics](docs/analytics.png)
+
 ## 🌟 Key Features
 
 - 🤖 Semantic Resume Matching using Sentence Transformers
